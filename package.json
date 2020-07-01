@@ -1,0 +1,8 @@
+{
+  "name": "disintegration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tomjhinton/disintegration.git",
+  "author": "Tom Hinton <tomjhinton@gmail.com>",
+  "license": "MIT"
+}
